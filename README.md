@@ -1,32 +1,15 @@
-<p align="center">
-  <img src="assets/banner.gif" width="100%">
-</p>
-
-<h1 align="center">Rutuja Kshirsagar</h1>
-
-<h3 align="center">Computer Engineer | AI Explorer</h3>
-
----
-
 ## 🌟 About Me
 
 👋 Hello, I'm Rutuja.
 
-A Computer Engineering student passionate about AI, software development, and building projects that solve real-world problems.
+A Computer Engineering student passionate about software development and building projects that solve real-world problems.
 
-### What I'm Up To
+### Currently Focusing On
 
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- ☕ Strengthening Java Development Skills
-- 🚀 Building Projects and Turning Ideas into Reality
-- 🟢 Currently Online and Always Learning
-
----
-
-## 🧭 Quick Navigation
-
-- [🛠️ Tech Stack](#️-tech-stack)
-- [🤝 Connect](#-connect)
+- 🧩 Strengthening Logic Building & Problem Solving
+- ☕ Deepening Java Development Skills
+- 🚀 Building Projects and Learning by Doing
+- 🌱 Exploring Artificial Intelligence & Machine Learning
 
 ---
 
@@ -34,23 +17,24 @@ A Computer Engineering student passionate about AI, software development, and bu
 
 ### Languages
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### AI & Data
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge)
 
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,eclipse" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,idea,mongodb,mysql" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
 ---
@@ -58,21 +42,15 @@ A Computer Engineering student passionate about AI, software development, and bu
 ## 🤝 Connect
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Rutuja-Kshirsagar-Tech">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rutuja-kshirsagar-1679b0259">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
-  <a href="mailto:YOUR_EMAIL">
+  &nbsp;&nbsp;
+  <a href="mailto:kshirsagarr806@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Learning. Building. Improving. 🚀</i>
 </p>
