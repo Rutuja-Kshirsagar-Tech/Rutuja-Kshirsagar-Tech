@@ -30,11 +30,7 @@ A Computer Engineering student passionate about software development and buildin
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,idea,mongodb,mysql" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,idea,spring,mongodb,mysql" />
 </p>
 
 ---
