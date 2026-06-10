@@ -6,25 +6,26 @@
 
 <h3 align="center">Computer Engineer | AI Explorer</h3>
 
-## > whoami
+---
 
-```yaml
-name: Rutuja Kshirsagar
-education: BTech Computer Science Engineering
-role: Computer Engineer
+### Version 3 (My Favorite for Your Profile)
 
-currently_learning:
-  - Machine Learning
-  - Data Analytics
-  - Networking
+```md
+## 🌟 About Me
 
-interests:
-  - AI
-  - Java Development
-  - Problem Solving
+👋 Hello, I'm Rutuja.
 
-status: SYSTEM ONLINE
-```
+A Computer Engineering student exploring the intersection of AI, software development, and problem-solving.
+
+### What I'm Up To
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+☕ Strengthening Java Development skills
+
+🚀 Building projects and turning ideas into reality
+
+🟢 Currently online and always learning.
 
 ## 🧭 Quick Navigation
 
