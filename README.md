@@ -4,9 +4,9 @@
 
 A Computer Engineering student passionate about software development and building projects that solve real-world problems.
 
-### Currently Focusing On
+### 🚀 Currently Focusing On 
 
-- 🧩 Strengthening Logic Building & Problem Solving
+- 🧠 Strengthening Logic Building & Problem Solving
 - ☕ Deepening Java Development Skills
 - 🚀 Building Projects and Learning by Doing
 - 🌱 Exploring Artificial Intelligence & Machine Learning
@@ -30,7 +30,7 @@ A Computer Engineering student passionate about software development and buildin
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,idea,spring,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,idea,spring,mongodb,mysql" />
 </p>
 
 ---
