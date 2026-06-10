@@ -2,13 +2,13 @@
 
 <table>
   <tr>
-    <td width="35%">
+    <td width="35%" valign="top">
 
 <img src="assets/debug.gif" width="250"/>
 
 </td>
 
-<td width="65%">
+<td width="65%" valign="top">
 
 👋 Hello, I'm Rutuja.
 
@@ -24,3 +24,7 @@ A Computer Engineering student passionate about software development and buildin
 </td>
   </tr>
 </table>
+
+---
+
+## 🛠️ Tech Stack
