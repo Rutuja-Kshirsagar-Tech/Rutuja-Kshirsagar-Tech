@@ -34,24 +34,23 @@ A Computer Engineering student passionate about AI, software development, and bu
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### AI & Data
 
-🤖 Machine Learning • 📊 Data Analytics
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge)
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,eclipse" />
 </p>
 
 ---
@@ -59,15 +58,21 @@ A Computer Engineering student passionate about AI, software development, and bu
 ## 🤝 Connect
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
+  
   <a href="mailto:YOUR_EMAIL">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning. Building. Improving. 🚀</i>
 </p>
