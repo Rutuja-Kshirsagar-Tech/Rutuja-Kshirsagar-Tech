@@ -2,49 +2,100 @@
   <img src="assets/banner.gif" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Rutuja Kshirsagar</h1>
+# Hi 👋, I'm Rutuja Kshirsagar
 
-<h3 align="center">Computer Engineer | AI Explorer</h3>
+### Computer Engineer | AI Explorer
 
 ---
 
-### Version 3 (My Favorite for Your Profile)
-
-```md
 ## 🌟 About Me
 
 👋 Hello, I'm Rutuja.
 
-A Computer Engineering student exploring the intersection of AI, software development, and problem-solving.
+A Computer Engineering student passionate about AI, software development, and building projects that solve real-world problems.
 
 ### What I'm Up To
 
-🤖 Exploring Artificial Intelligence & Machine Learning
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- ☕ Strengthening Java Development Skills
+- 🚀 Building Projects and Turning Ideas into Reality
+- 🟢 Currently Online and Always Learning
 
-☕ Strengthening Java Development skills
-
-🚀 Building projects and turning ideas into reality
-
-🟢 Currently online and always learning.
+---
 
 ## 🧭 Quick Navigation
 
-- [About Me](#about-me)
-- [Tech Stack](#tech-stack)
-- [Featured Projects](#featured-projects)
-- [GitHub Stats](#github-stats)
-- [Currently Debugging](#currently-debugging)
-- [Connect](#connect)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🚀 Featured Projects](#-featured-projects)
+- [📊 GitHub Stats](#-github-stats)
+- [🐞 Currently Debugging](#-currently-debugging)
+- [🤝 Connect](#-connect)
 
+---
 
-## About Me
+## 🛠️ Tech Stack
 
-## Tech Stack
+### Languages
+- Java
+- Python
+- C
 
-## Featured Projects
+### AI & Data
+- Machine Learning
+- Data Analytics
 
-## GitHub Stats
+### Databases
+- MySQL
 
-## Currently Debugging
+### Tools
+- Git
+- GitHub
+- VS Code
+- Linux
 
-## Connect
+---
+
+## 🚀 Featured Projects
+
+### 📍 UniFind
+Smart Campus Lost & Found System
+
+### 🤖 Nova
+Grid-Based AI Simulation
+
+### 🛡️ From Trolls To Trends
+AI-Powered Toxicity Detection Platform
+
+### 🚨 SilentSOS
+Discreet Emergency Help System
+
+### 🗺️ SafeRoute
+Safer Route Navigation System
+
+---
+
+## 📊 GitHub Stats
+
+_Coming Soon..._
+
+---
+
+## 🐞 Currently Debugging
+
+```text
+Current Bugs:
+□ Sleep Schedule
+□ Placement Preparation
+■ Java Mastery
+■ Machine Learning
+```
+
+---
+
+## 🤝 Connect
+
+- GitHub: Your GitHub Link
+- LinkedIn: Your LinkedIn Link
+- Email: Your Email
+
+---
