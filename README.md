@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/banner.gif" width="800"/>
-</p>
-
-
 ## 🌟 About Me
 
 👋 Hello, I'm Rutuja.
