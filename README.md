@@ -8,6 +8,7 @@ A Computer Engineering student passionate about software development and buildin
 
 - 🧠 Strengthening Logic Building & Problem Solving
 - ☕ Deepening Java Development Skills
+- 🏗️ Mastering Object-Oriented Programming (OOP)
 - 🚀 Building Projects and Learning by Doing
 - 🌱 Exploring Artificial Intelligence & Machine Learning
 
@@ -21,6 +22,10 @@ A Computer Engineering student passionate about software development and buildin
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Core Concepts
+
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Databases
 
